@@ -1,0 +1,111 @@
+body{
+    background: #D3CCE3;
+background: -webkit-linear-gradient(to right, #E9E4F0, #D3CCE3);
+background: linear-gradient(to right, #E9E4F0, #D3CCE3);
+
+}
+
+#botacer{
+    font-size: 13px; line-height: 13px; padding: 4px; border-radius: 13px; font-family: Verdana, Geneva, sans-serif; font-weight: normal; text-decoration: none; font-style: normal; font-variant: normal; text-transform: none; background-image: linear-gradient(rgb(164, 63, 76) 0%, rgb(203, 72, 119) 49%, rgb(117, 38, 58) 100%); box-shadow: rgba(255, 255, 255, 0.17) 3px 5px 1px 0px; border: 2px dotted rgb(11, 7, 25); display: inline-block;
+    background: #d9a7c7;
+    background: -webkit-linear-gradient(to right, #fffcdc, #d9a7c7);
+    background: linear-gradient(to right, #fffcdc, #d9a7c7);
+} 
+
+#botexp{
+    font-size: 13px; line-height: 13px; padding: 4px; border-radius: 13px; font-family: Verdana, Geneva, sans-serif; font-weight: normal; text-decoration: none; font-style: normal; font-variant: normal; text-transform: none; background-image: linear-gradient(rgb(164, 63, 76) 0%, rgb(203, 72, 119) 49%, rgb(117, 38, 58) 100%); box-shadow: rgba(255, 255, 255, 0.17) 3px 5px 1px 0px; border: 2px dotted rgb(11, 7, 25); display: inline-block;
+    background: #d9a7c7;
+    background: -webkit-linear-gradient(to right, #fffcdc, #d9a7c7);
+    background: linear-gradient(to right, #fffcdc, #d9a7c7); }
+
+#bothab{
+    font-size: 13px; line-height: 13px; padding: 4px; border-radius: 13px; font-family: Verdana, Geneva, sans-serif; font-weight: normal; text-decoration: none; font-style: normal; font-variant: normal; text-transform: none; background-image: linear-gradient(rgb(164, 63, 76) 0%, rgb(203, 72, 119) 49%, rgb(117, 38, 58) 100%); box-shadow: rgba(255, 255, 255, 0.17) 3px 5px 1px 0px; border: 2px dotted rgb(11, 7, 25); display: inline-block;
+    background: #d9a7c7;
+    background: -webkit-linear-gradient(to right, #fffcdc, #d9a7c7);
+    background: linear-gradient(to right, #fffcdc, #d9a7c7); }
+
+#botcont{
+    font-size: 13px; line-height: 13px; padding: 4px; border-radius: 13px; font-family: Verdana, Geneva, sans-serif; font-weight: normal; text-decoration: none; font-style: normal; font-variant: normal; text-transform: none; background-image: linear-gradient(rgb(164, 63, 76) 0%, rgb(203, 72, 119) 49%, rgb(117, 38, 58) 100%); box-shadow: rgba(255, 255, 255, 0.17) 3px 5px 1px 0px; border: 2px dotted rgb(11, 7, 25); display: inline-block;
+    background: #d9a7c7;
+    background: -webkit-linear-gradient(to right, #fffcdc, #d9a7c7);
+    background: linear-gradient(to right, #fffcdc, #d9a7c7); }
+
+#volver{
+    font-size: 13px; line-height: 13px; padding: 4px; border-radius: 13px; font-family: Verdana, Geneva, sans-serif; font-weight: normal; text-decoration: none; font-style: normal; font-variant: normal; text-transform: none; background-image: linear-gradient(rgb(164, 63, 76) 0%, rgb(203, 72, 119) 49%, rgb(117, 38, 58) 100%); box-shadow: rgba(255, 255, 255, 0.17) 3px 5px 1px 0px; border: 2px dotted rgb(11, 7, 25); display: inline-block;
+    background: #d9a7c7;
+    background: -webkit-linear-gradient(to right, #fffcdc, #d9a7c7);
+    background: linear-gradient(to right, #fffcdc, #d9a7c7); }
+
+#caja1{
+    font-family: 'Golos Text', sans-serif;
+
+}
+
+#caja2{
+    padding-top:20px;
+    padding-bottom:20px;
+    font-family: 'Golos Text', sans-serif;
+    background-color:white
+
+}
+
+#caja3 {
+    padding-top:20px;
+    padding-inline: 20px;
+    padding-bottom:20px;
+    font-family: 'Golos Text', sans-serif;
+    background-color:white
+}
+
+#acerca1{
+    font-family: 'Golos Text', sans-serif;
+    color:rgb(114, 42, 102);
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 6px 12px -1px rgba(200,123,168,0.71); 
+    box-shadow: 0px 10px 13px -7px #000000, 5px 6px 12px -1px rgba(200,123,168,0.71);
+
+}
+
+table {
+    font-family: 'Golos Text', sans-serif;
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+    margin: 0 0 1em 0;
+    caption-side: top;
+ }
+ caption, td, th {
+    padding: 0.3em;
+ }
+ th, td {
+    font-family: 'Golos Text', sans-serif;
+    border-bottom: 1px solid #999;
+    width: 25%;
+ }
+ caption {
+    font-weight: bold;
+    font-family: 'Golos Text', sans-serif;
+ }
+
+h1{
+    font-family: 'Golos Text', sans-serif;
+    color:rgb(114, 42, 102);
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 6px 12px -1px rgba(200,123,168,0.71); 
+    box-shadow: 0px 10px 13px -7px #000000, 5px 6px 12px -1px rgba(200,123,168,0.71);
+}
+
+h2{
+    text-shadow: 2px 2px 5px rgb(163, 52, 126);
+    font-family: 'Golos Text', sans-serif;
+    font-weight: bold;
+    font-size:xx-large
+}
+
+h3{
+    font-family: 'Golos Text', sans-serif;
+    font-weight: bold;
+    font-style: oblique;
+}
+
+#reloj { width: 150px; height: 30px; padding: 5px 10px; border: 1px solid black; 
+    font: bold 1.5em dotum, "lucida sans", arial; text-align: center;
+    float: right; margin: 1em 3em 1em 1em; }
